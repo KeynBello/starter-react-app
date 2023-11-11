@@ -7,7 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello! I'm Andrew \nIt's DevOps Fundamentals SoftServe|Academy Course
+          Hello! I'm Andrew
+        </p>
+        <p>
+          It's DevOps Fundamentals SoftServe|Academy Course
         </p>
         <a
           className="App-link"
